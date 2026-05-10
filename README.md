@@ -59,16 +59,18 @@ This architecture significantly improves handwritten digit recognition accuracy 
 
 ## Main UI
 
-![UI](screenshots/app-ui.png)
+<p align="center">
+  <img src="screenshots/app-ui.png" width="500"/>
+</p>
 
-## Prediction Example - 5
 
-![Prediction 5](screenshots/prediction-5.png)
 
-## Prediction Example - 7
+## Prediction Examples
 
-![Prediction 7](screenshots/prediction-7.png)
-
+<p align="center">
+  <img src="screenshots/prediction-5.png" width="260"/>
+  <img src="screenshots/prediction-7.png" width="260"/>
+</p>
 
 # Project Structure
 
